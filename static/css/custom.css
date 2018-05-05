@@ -22,3 +22,11 @@ figcaption p:last-child {
 .fa-twitter:before {
     content: "\f099";
 }
+
+.footnotes {
+	font-size: 70%;
+}
+
+.footnotes ol {
+	padding-left: 1.5em;
+}

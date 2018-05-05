@@ -38,4 +38,4 @@ Durch das *Maui META*-Tool, das normalerweise wohl im Werk für die Kalibration 
 
 {{< tweet 980904898631032832 >}}
 
-Dort legt die Firmware, die auf einer Mediatek IoT-Plattform basieren zu scheint, Konfiguration aber vorallem Logs vom GPS ab.
+Dort legt die Firmware, die auf einer Mediatek IoT-Plattform basieren zu scheint, Konfiguration, aber vorallem Logs vom GPS ab.
