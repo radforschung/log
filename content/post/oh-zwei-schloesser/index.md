@@ -17,3 +17,5 @@ Die mitgeschickte SIM-Karten lässt sich interessanterweise in unseren verfügba
 Zusätzlich bekamen wir bei J noch je Schloss ein USB-Seriell-Kabel mit HIGO-Connector und Solar-Panels für den Gepäckkorb.
 
 Beide haben uns schon vorab Dokumentation für das Bluetooth-Protokoll zukommen lassen, bei V bekamen wir noch Zugang zur Service-App für Android, die einen *Factory Test*-Modus enthält. Damit lässt sich ein Schloss bereits entsperren.
+
+{{< figure src="bikeoprt.png" width="50%" >}}
