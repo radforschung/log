@@ -1,9 +1,9 @@
 ---
-title: "Oh, zwei Schlösser"
-slug: "oh-zwei-schloesser"
-date: 2018-02-15
----
+title: Oh, zwei Schlösser
+slug: oh-zwei-schloesser
+date: 2018-02-15 00:00:00 +0000
 
+---
 Ein paar Tage später -- DHL Express sei Dank -- haben wir nun Fahrradschlösser von zwei Herstellern in den Händen. Hier und in den folgenden Posts nennen wir sie mal J und V.
 
 {{< figure src="locks.jpg" caption="links das Schloss von J, rechts das von V" >}}
