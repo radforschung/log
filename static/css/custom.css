@@ -1,0 +1,24 @@
+.content {
+	min-height: auto;
+}
+
+figure {
+    margin: 15px 0 25px;
+}
+
+figcaption p {
+	font-size: 80%;
+	color: #777;
+}
+
+figcaption p:first-child {
+	margin-top: 10px;
+}
+
+figcaption p:last-child {
+	margin-bottom: 0;
+}
+
+.fa-twitter:before {
+    content: "\f099";
+}

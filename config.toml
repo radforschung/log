@@ -1,0 +1,30 @@
+baseURL = "https://radforschung.org/log/"
+languageCode = "de-de"
+title = "radforschung.log"
+theme = "natrium"
+
+pygmentsCodefences = true
+pygmentsStyle = "native"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+    page = "/:slug/"
+
+[[menu.main]]
+	pre = "<i class='fa fa-twitter' title='twitter'></i>"
+    name = "@radforschung"
+    url = "https://twitter.com/radforschung"
+
+[params]
+    description = ""
+
+    [params.logo]
+    url = "logo.svg"
+    width = "50"
+    height = "50"
+    alt = "radforschung"
+    title = "radforschung"
