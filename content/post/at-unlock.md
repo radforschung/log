@@ -1,9 +1,9 @@
 ---
-title: "AT+UNLOCK?"
-slug: "at-unlock"
-date: 2018-03-19
----
+title: AT+UNLOCK?
+slug: at-unlock
+date: 2018-03-19 00:00:00 +0000
 
+---
 J, der Hersteller eines unserer Forschungsschlösser, baut nicht nur Fahrradschlösser, sondern hat wohl bereits jahrelange Erfahrung im Bau von Auto-GPS-Trackern.
 
 Glücklicherweise findet man zu diesen Trackern mehr Dokumentation im Internet, als bislang zu *smarten* Fahrradschlössern.

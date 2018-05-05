@@ -1,9 +1,9 @@
 ---
-title: "Schloss am Handgelenk"
-slug: "schloss-am-handgelenk"
-date: 2018-04-02
----
+title: Schloss am Handgelenk
+slug: schloss-am-handgelenk
+date: 2018-04-02 00:00:00 +0000
 
+---
 Im Schloss von J ist ein *Mediatek MT2503AV* verbaut. Dieser Chip wird normalerweise in - wer hätte das gedacht - Smartwatches eingesetzt. Er basiert auf der ARMv7-Architektur, bringt GPS, Bluetooth 3.0, ein GPRS Modem und u.a. Support für ein Gyroskop mit.
 
 Zusätzlich würden sich an diesen Chipsatz ein LCD, eine Kamera, ein Audiointerface etc. anschließen lassen. Damit eignet er sich bereits wunderbar für Featurephones - und so findet man bei Aliexpress und in anderen Shops auch durchaus Telefone und Smartwatches, die genau auf diesem Chipsatz basieren.
