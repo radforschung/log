@@ -1,8 +1,8 @@
 ---
-title: "Sticker"
-date: 2018-03-14
----
+title: Sticker
+date: 2018-03-14 00:00:00 +0000
 
+---
 Als hippes Projekt mit [Twitter-Account](https://twitter.com/radforschung) hat es nicht lange gedauert, bis wir selbst auch Sticker dafür wollten.
 
 {{< figure src="sticker.jpg" caption="rund und rechteckig" >}}
