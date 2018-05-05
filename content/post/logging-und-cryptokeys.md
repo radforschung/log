@@ -1,9 +1,8 @@
 ---
 title: Logging und Cryptokeys
-date: 2018-04-09
+date: 2018-04-09 00:00:00 +0000
 
 ---
-
 {{< tweet 983360948932153344 >}}
 
 Nach dem *Chinese New Year*-Urlaub des Herstellers J haben sie uns glücklicherweise mitgeteilt, dass wir doch das blaue Drähtchen am USB-Seriell-Adapter mit Masse verbinden müssen, damit das Schloss auch auf serielle Befehle reagiert.

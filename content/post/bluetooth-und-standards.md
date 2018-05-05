@@ -1,9 +1,8 @@
 ---
 title: Bluetooth und Standards
-date: 2018-04-09
+date: 2018-04-09 00:00:00 +0000
 
 ---
-
 Bei dem Schloss von V war durch die Dokumentation recht schnell klar, wie wir über Bluetooth es zum Öffnen bringen.
 
 Erste Versuche mit [WebBluetooth](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web) waren aber leider nicht erfolgreich - so bekamen wir beim Versuch Notifications für eine Characteristic zu erhalten nur `DOMException: GATT Error: Not supported.` zurück.
