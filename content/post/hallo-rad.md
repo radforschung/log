@@ -1,8 +1,8 @@
 ---
-title: "Hallo Rad"
-date: 2018-02-10
----
+title: Hallo Rad
+date: 2018-02-10 00:00:00 +0000
 
+---
 Hallo. Wir (hier: [ubahnverleih](https://twitter.com/ubahnverleih) und [robbi5](https://robbi5.de)) betreiben *radforschung*, denn *wir forschen nach rad* 🚲.
 
 Wir sind schon lange an Bikesharing interessiert, so hat ubahnverleih [Mitte 2017 bereits die Bedeutung des stärker werdenden chinesischen Bikesharingmarkts](http://blattspinat.com/index.php/posts/chinesische-rader-nehmen-uns-die-stadte-weg) aufgeschrieben. Aus einer technischen Sicht haben wir bereits die öffentlich zugänglichen Standort-APIs der verschiendenen Anbieter [in einem GitHub-Repository zusammengefasst](https://github.com/ubahnverleih/WoBike) und bauen seit längerer Zeit eine Datenbank der Standorte von vielen verfügbaren Sharingsysteme auf.

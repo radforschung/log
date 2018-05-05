@@ -1,9 +1,9 @@
 ---
-title: "Schloss von Innen: J"
-slug: "schloss-von-innen-j"
-date: 2018-02-17
----
+title: 'Schloss von Innen: J'
+slug: schloss-von-innen-j
+date: 2018-02-17 00:00:00 +0000
 
+---
 Das Schloss von J sieht recht robust aus. Das Gehäuse besteht (bis auf den Teil mit der Platine) vollständig aus Metall. Nach außen ist ein kurzes Kabel mit einem HIGO-Connector geführt. Verschraubt ist das Schloss mit Torx-TR-Schrauben.
 
 {{< figure src="https://radforschung.org/inside/j/IMG_7789.jpg" >}}

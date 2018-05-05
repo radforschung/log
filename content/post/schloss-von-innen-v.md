@@ -1,9 +1,9 @@
 ---
-title: "Schloss von Innen: V"
-slug: "schloss-von-innen-v"
-date: 2018-02-17
----
+title: 'Schloss von Innen: V'
+slug: schloss-von-innen-v
+date: 2018-02-17 00:00:00 +0000
 
+---
 Das Schloss von V zeichnet sich durch einen weit nach hinten stehenden Metallkasten aus. Das Gehäuse besteht auf der unteren Hälfte aus Metall, die obere Hälfte ist Plastik. Nach außen ist ein kurzes Kabel mit einem USB-A-Stecker (?!?) geführt.
 
 {{< figure src="https://radforschung.org/inside/v/IMG_7943.jpg" >}}
