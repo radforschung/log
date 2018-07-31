@@ -30,3 +30,17 @@ figcaption p:last-child {
 .footnotes ol {
 	padding-left: 1.5em;
 }
+
+.task-list li {
+	list-style-type: none;
+}
+
+[type="checkbox"], [type="radio"] {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.task-list-item {
+	margin: 0 0.2em 0.25em -1.6em;
+    vertical-align: middle;
+}

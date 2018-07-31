@@ -8,7 +8,7 @@ Im Schloss von J ist ein *Mediatek MT2503AV* verbaut. Dieser Chip wird normalerw
 
 Zusätzlich würden sich an diesen Chipsatz ein LCD, eine Kamera, ein Audiointerface etc. anschließen lassen. Damit eignet er sich bereits wunderbar für Featurephones - und so findet man bei Aliexpress und in anderen Shops auch durchaus Telefone und Smartwatches, die genau auf diesem Chipsatz basieren.
 
-Mittels dem beiliegendem USB-Seriell-Kabel lässt sich auch etwas Logging ansehen:
+Mittels dem beiliegendem USB-Seriell-Kabel lässt sich auch etwas Logging ansehen (115200, 8N1):
 
 ```
 OS■■■■■APP■■■■■■■:342, ■■■■■■■■■■:342
