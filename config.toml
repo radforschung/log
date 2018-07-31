@@ -4,6 +4,7 @@ pygmentsCodefences = true
 pygmentsStyle = "native"
 theme = "natrium"
 title = "radforschung.log"
+paginate = 50
 [[menu.main]]
 name = "@radforschung"
 pre = "<i class='fa fa-twitter' title='twitter'></i>"
