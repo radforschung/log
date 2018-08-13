@@ -10,8 +10,8 @@ date: 2018-07-28 00:00:00 +0000
 
 - [x] Schlosshardware aus China, Motor aus China, Akku aus China, Platine ist raus
 - [x] Schlossmotor ansteuern
-- [ ] feststellen ob Schloss offen / geschlossen
-- [ ] passende Motorumdrehungen auslösen, bis Schloss offen
+- [x] feststellen ob Schloss offen / geschlossen
+- [x] passende Motorumdrehungen auslösen, bis Schloss offen
 - [ ] Ladeschaltung für bestehenden Akku
 
 #### lora
