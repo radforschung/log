@@ -15,8 +15,8 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] Ladeschaltung für bestehenden Akku
 
 #### lora
-- [ ] erste lorawan-anbindung für ping
-- [ ] lorawan um schlossstatus zu übertragen
+- [x] erste lorawan-anbindung für ping
+- [x] lorawan um schlossstatus zu übertragen
 - [ ] lorawan um schloss zu öffnen
 - [ ] lorawan um bestätigung, wenn geöffnet versenden
 - [ ] lorawan um device neu zu starten
