@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de-de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>radforschung</title>
+    <link rel="stylesheet" href="/log/css/main.css" media="all" />
+    <link rel="stylesheet" href="/log/css/custom.css" media="all" />
+    <link rel="stylesheet" href="/log/css/fonts.css" />
+    <style>
+      .logo {
+        margin-bottom: 1.5em;
+      }
+      .home-nav {
+        display: flex;
+        max-width: 20em;
+        margin: 0.5em auto;
+        padding: 0;
+        list-style: none;
+        flex-direction: column;
+      }
+      .home-nav a {
+        display: block;
+        border: 1px solid #999;
+        background: #fafafa;
+        padding: 0.4em 1em;
+        margin: 0.5em;
+        border-radius: 0.5em;
+        text-decoration: none;
+        color: #333;
+      }
+      .fa-book::before {
+        content: "\f02d";
+      }
+      footer {
+        display: flex;
+        justify-content: flex-end;
+      }
+      .claim-vm {
+        width: 200px;
+        text-align: center;
+        margin: 0.3em;
+      }
+      .claim-vm-wrap {
+        margin: 0.3em 0 0 0;
+      }
+      .claim-vm-wrap img {
+        width: 150px;
+      }
+      .claim-vm-wrap:hover img {
+        visibility: hidden;
+      }
+      .claim-vm-wrap:hover {
+        background: url("/log/images/bw-vm-hover.png") no-repeat center;
+        background-size: 150px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <main class="content">
+        <img src="/log/images/logo.svg"
+             width="254"
+             height="254"
+             alt="radforschung"
+             title="radforschung"
+             class="logo" />
+        <nav>
+          <ul class="home-nav">
+            <li><a href="/log/"><i class='fa fa-book'></i> Log</a></li>
+            <li><a href="https://twitter.com/radforschung"><i class='fa fa-twitter' title='twitter'></i> @radforschung</a></li>
+            <li><a href="https://github.com/radforschung"><i class="fa fa-github"></i> Code</a></li>
+          </ul>
+        </nav>
+      </main>
+    </div>
+
+    <footer>
+      <div class="claim-vm">Gefördert durch <div class="claim-vm-wrap"><img src="/log/images/bw-vm.png" alt="Ministerium für Verkehr - Baden-Württemberg" /></div></div>
+    </footer>
+  </body>
+</html>
+
