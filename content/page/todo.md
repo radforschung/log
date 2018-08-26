@@ -13,12 +13,13 @@ date: 2018-07-28 00:00:00 +0000
 - [x] feststellen ob Schloss offen / geschlossen
 - [x] passende Motorumdrehungen auslösen, bis Schloss offen
 - [ ] Ladeschaltung für bestehenden Akku
+- [ ] Check für Motorblockade / Fehlerzustand auslösen
 
 #### lora
 - [x] erste lorawan-anbindung für ping
 - [x] lorawan um schlossstatus zu übertragen
-- [ ] lorawan um schloss zu öffnen
-- [ ] lorawan um bestätigung, wenn geöffnet versenden
+- [x] lorawan um schloss zu öffnen
+- [x] lorawan um bestätigung, wenn geöffnet versenden
 - [ ] lorawan um device neu zu starten
 - [ ] lorawan um schloss in den wartungsmodus (nicht ausleihbar) zu versetzen
 - [ ] e2e crypto über lorawan drüberlegen
@@ -32,9 +33,9 @@ date: 2018-07-28 00:00:00 +0000
 #### ortung
 - [ ] gps-modul anbinden
 - [ ] lorawan um aktuelle gps position zu übertragen
-- [ ] wifi-ortung
+- [x] wifi-ortung
 - [ ] kompression für wifi-ortung suchen
-- [ ] lorawan um wifi-ortungsdaten zu übertragen
+- [x] lorawan um wifi-ortungsdaten zu übertragen
 - [ ] gsm-modul für basisstationsortung
 - [ ] nochmal nach preisgünstigem lte-modul suchen
 - [ ] lorawan um gsm/lte-basisstationsids zu übertragen
@@ -89,6 +90,7 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] firmware uploaden können
 
 #### platine
+- [x] testbed-setup ohne motor, schalter
 - [ ] stecker/buchsen für motor, schalter herausfinden
 - [ ] eigene platine layouten
 - [ ] erste eigene platinen bestellen, ausprobieren
@@ -97,14 +99,14 @@ date: 2018-07-28 00:00:00 +0000
 ### Schlossendpoint:
 
 - [ ] schlösser registrieren
-- [ ] logging von allen nachrichten
+- [x] logging von allen nachrichten
 
 #### status
-- [ ] eingehenden schlossstatus annehmen
-- [ ] schlosstatus speichern
+- [x] eingehenden schlossstatus annehmen
+- [x] schlosstatus speichern
 
 #### öffnen
-- [ ] schlossöffnung per lora versenden
+- [x] schlossöffnung per lora versenden
 - [ ] eingehende bestätigung annehmen
 
 #### alarm
@@ -114,9 +116,9 @@ date: 2018-07-28 00:00:00 +0000
 #### location
 - [ ] eingehende gps-koordinaten annehmen
 - [ ] schlossposition speichern
-- [ ] eingehende wifi-macadressen annehmen
+- [x] eingehende wifi-macadressen annehmen
 - [ ] eingehende gsm/lte-basisstationsids annehmen
-- [ ] mozilla location services anfragen
+- [x] mozilla location services anfragen
 
 #### nfc-unlock
 - [ ] eingehende nfc-uid annehmen
