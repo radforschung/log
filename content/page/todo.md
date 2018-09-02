@@ -7,7 +7,6 @@ date: 2018-07-28 00:00:00 +0000
 
 
 ### Schlosshardware & Firmware:
-
 - [x] Schlosshardware aus China, Motor aus China, Akku aus China, Platine ist raus
 - [x] Schlossmotor ansteuern
 - [x] feststellen ob Schloss offen / geschlossen
@@ -20,7 +19,7 @@ date: 2018-07-28 00:00:00 +0000
 - [x] lorawan um schlossstatus zu übertragen
 - [x] lorawan um schloss zu öffnen
 - [x] lorawan um bestätigung, wenn geöffnet versenden
-- [ ] lorawan um device neu zu starten
+- [x] lorawan um device neu zu starten
 - [ ] lorawan um schloss in den wartungsmodus (nicht ausleihbar) zu versetzen
 - [ ] e2e crypto über lorawan drüberlegen
 
@@ -97,7 +96,6 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] wie bekommen wir das gehäuse wasserdicht?
 
 ### Schlossendpoint:
-
 - [ ] schlösser registrieren
 - [x] logging von allen nachrichten
 
@@ -127,8 +125,7 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] fehlercode versenden
 
 ###  Orga:
-
-- [ ] Mehr Schlösser bestellen bzw. verhandeln, um nur Schlossrohling zu bekommen
+- [x] Mehr Schlösser bestellen bzw. verhandeln, um nur Schlossrohling zu bekommen
 - [ ] Schloss an Testfahrrad befestigen können
 - [ ] Platz für Solarzelle finden
 - [ ] Verkabelung am Fahrrad klären
