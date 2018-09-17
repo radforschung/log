@@ -30,7 +30,7 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] kritische ladelevel definieren
 
 #### ortung
-- [ ] gps-modul anbinden
+- [x] gps-modul anbinden
 - [ ] lorawan um aktuelle gps position zu übertragen
 - [x] wifi-ortung
 - [ ] kompression für wifi-ortung suchen
@@ -50,8 +50,8 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] nfc-uid per lorawan versenden
 
 #### e-paper
-- [ ] e-paper-display ansteuern
-- [ ] qr-code auf e-paper-display anzeigen
+- [x] e-paper-display ansteuern
+- [x] qr-code auf e-paper-display anzeigen
 - [ ] öffnungsstatus anzeigen
 - [ ] nicht ausleihbar anzeigen
 - [ ] nfc-bitte-warten anzeigen
@@ -87,6 +87,10 @@ date: 2018-07-28 00:00:00 +0000
 - [ ] firmwareupdatemodus
 - [ ] firmware via wifi downloaden
 - [ ] firmware uploaden können
+
+#### gehäuse
+- [x] erstes eigenes gehäuse layouten
+- [ ] gehäuse kompatibel zur bisherigen akku-hälfte
 
 #### platine
 - [x] testbed-setup ohne motor, schalter
