@@ -21,3 +21,7 @@ Die zweite Version war gestalterisch konsequenter, trotzdem probierten wir noch 
 Die dritte Version bekamen am nächsten Tag dann auch die Vertreter\*innen aus den Kommunen zu sehen.
 
 So ganz sicher ist aber auch hier die Reihenfolge und unser Versuch die Idee und das bereits umgesetzte zu kommunizieren noch nicht. Als besonders schwierig stellt sich heraus, den zuhörenden zu vermitteln, dass sie kein Geld auf ein hippes Startup werfen sollen um deren Dienstleistungen einzukaufen, sondern dass wir daran basteln, das Spielfeld so zu drehen, dass _sie selbst_ in die Lage versetzt werden,  Räder, Roller und andere Gefährte verleihen zu können.
+
+---
+
+Sehr hilfreich bei unseren drei Folienversuchen war am Anfang gemeinsam in einem in Echtzeit geteilten Foliensatz anzufangen, also Services wie Google Slides, Keynote/iCloud oder Collabora Online zu verwenden. So konnten mehrere Personen schnell Slideentwürfe anlegen und bearbeiten, die nach ein paar Feedbackrunden auf einen konsistenteren Erzähl- und Gestaltungsstrang umgebaut wurden.
