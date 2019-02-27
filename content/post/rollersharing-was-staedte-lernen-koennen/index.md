@@ -1,7 +1,7 @@
 ---
 title: Rollersharing kommt nach Deutschland. Was deutsche Städte jetzt schon von anderen lernen können
 slug: rollersharing-was-staedte-lernen-koennen
-date: 2019-02-18
+date: 2019-02-27
 
 ---
 
