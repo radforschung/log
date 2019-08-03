@@ -1,33 +1,32 @@
 ---
 title: Let's share bikes at cccamp19
 slug: bikesharing-cccamp19
-date: 2019-08-04 00:00:00 +0000
-​
+date: 2019-08-03 00:00:00 +0000
+
 ---
-​
 _English version below_
-​
-Das [Chaos Communication Camp](https://de.wikipedia.org/wiki/Chaos_Communication_Camp) steht bevor, und eigentlich wollten wir hier schreiben, dass das Gelände im Ziegeleipark Mildenberg ja viel größer sei als der Congress.
-Ein kurzer Vergleich auf der Karte hat einen Realitätscheck gebracht: 2015 war das im Vergleich zu Hamburg auf jeden Fall noch wahr – aber trotzdem reicht das ja als Hausnummer: _„Ohje, das sind so weite Strecken wie in Leipzig!“_
-​
+
+Das [Chaos Communication Camp](https://de.wikipedia.org/wiki/Chaos_Communication_Camp) steht bevor, und eigentlich wollten wir hier schreiben, dass das Gelände im Ziegeleipark Mildenberg ja viel größer sei als der Congress.  
+Ein kurzer Vergleich auf der Karte hat einen Realitätscheck gebracht: 2015 war das im Vergleich zu Hamburg auf jeden Fall noch wahr – aber trotzdem reicht das ja als Hausnummer: _„Ohje, das sind so weite Strecken wie in Leipzig!“_  
+
 Im Gegensatz zu Leipzig tummeln sich auf der Fläche aber deutlich weniger Menschen. Und es gibt noch weitere Besonderheiten: Zum Beispiel gibt es den Anwendungsfall, emissionsarm ins nahe gelegene Zehdenick zu fahren, um Beispielsweise Lebensmittel oder Bargeld zu holen – eben all die wenigen verbleibenden Dinge, die es auf dem Camp nicht so einfach als Infrastruktur gibt.
-​
+
 Zufälligerweise sind wir auch auf dem Camp und haben uns dem [Open Village](https://events.ccc.de/camp/2019/wiki/Village:Open_Village) angeschlossen. Und aus dem Zufall auch etwas nützliches zu machen, wollen wir die Gelegenheit nutzen, einmal für das Camp in gaaaanz kleinem Rahmen und ganz ohne Zuverlässigkeits- und Funktionsgarantie Bikesharing mit euch zu testen.
-​
+
 ### Wie wir uns das gedacht haben
-​
+
 Wir sind gerade dabei, ein sehr krudes [MVP](https://de.wikipedia.org/wiki/Minimum_Viable_Product) für Open-Source-Fahrzeugsharing für das Camp zu bauen. Wer möchte, kann ein geeignetes Fahrrad mitbringen, dass sie/er als Versuchsträger für die Dauer des Camps einsetzen möchte. Egal ob das alte Klapprad vom Dachboden oder ein irgendwo gefundenes Rad, auf das jemand mal _obike_ geschrieben und es danach in der Landschaft zurückgelassen hatte. Wir bringen eine Kiste voll Zahlenschlösser und ein bis dahin hoffentlich abgearbeitetes Backlog.
-​
+
 Wie weit wir bis dahin gekommen sind, wissen wir offen gestanden nicht. Im „schlimmsten“ Fall müssen wir uns mit der [chaosvermittlung](https://twitter.com/c3vermittlung) zusammentun und unsere Feldfernsprechersammlung für fixe Docks mitbringen, damit wir euch händisch die Zahlencodes übermitteln können. Das Ziel wäre aber ein Endpunkt, der valides [GBFS](https://github.com/NABSA/gbfs) ausspielt, und eine halbwegs durchautomatisierte Entleihmöglichkeit für euch. Und vielleicht bekommen wir sogar ein paar der [Hardwareschlösser](../es-oeffnet-sich/) drangedengelt und produktiv ausprobiert.
-​
+
 ### Ich will mitmachen, was kann ich tun!
-​
+
 Gleich auf mehrere Arten!
-​
+
 **Als RadverleiherIn:** Überleg Dir, ob du ein Radl mit zum Camp bringst, das Du zu teilen bereit bist. Wir können nicht garantieren, dass der entleihende Mensch super excellent damit umgeht – dieses Risiko gehört dazu. Falls Du Dich entschlossen hast, mitzumachen: [Trag dich im Wiki ein](https://events.ccc.de/camp/2019/wiki/Projects:Bikesharing), damit wir einen groben Überblick haben.
-​
+
 **Als CodeverbessererIn:** Dieser Part wird sich in der Woche vor dem Camp und dann vor allem im laufenden Betrieb vor Ort ergeben – GitHub-Links folgen!
-​
+
 **Als HardwarehackerIn:** Wir werden einige der Schlösser und das von uns überlegte „neue“ Innenleben einpacken, die explizit dafür da sind, dass sie in Deinem Hackspace oder im Zweifel auch bei Dir zuhause ein neues Zuhause finden – damit noch mehr Menschen darauf schauen und daran weiterentwickeln können. Falls Du daran Interesse hast, sag uns gerne auf der Wiki-Seite oder vor Ort im [Open Village](https://events.ccc.de/camp/2019/wiki/Village:Open_Village) Bescheid!
 
 ---
