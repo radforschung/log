@@ -41,7 +41,7 @@ Der magische Trick hier: Eine **Minimum Viable Policy.** Die kleinste, un-umfang
 
 ### Was sind diese Areas/Zonen?
 
-Das [Los Angeles Department of Transportation](https://ladot.io/) (LADOT, eine Mischung aus Verkehrsunternehmen und Verkehrsbehörde in LA) hat in der MDS ein Datenformat standardisiert, [über das sogenannte `Service Areas` definiert werden](https://github.com/CityOfLosAngeles/mobility-data-specification/blob/master/agency/README.md#service-areas). Hier können über eine Schnittstelle – im Zweifel individuell für jeden Mobilitätsanbieter – Gebietsumringe ausgespielt werden, die bestimmte Parameter haben.
+Das [Los Angeles Department of Transportation](https://ladot.io/) (LADOT, eine Mischung aus Verkehrsunternehmen und Verkehrsbehörde in Los Angeles) hat in der MDS ein Datenformat standardisiert, [über das sogenannte `Service Areas` definiert werden](https://github.com/CityOfLosAngeles/mobility-data-specification/blob/master/agency/README.md#service-areas). Hier können über eine Schnittstelle – im Zweifel individuell für jeden Mobilitätsanbieter – Gebietsumringe ausgespielt werden, die bestimmte Parameter haben.
 
 Die Service Areas können dabei [**einen** von vier verschiedenen Typen](https://github.com/CityOfLosAngeles/mobility-data-specification/blob/master/agency/README.md#area-types) haben:
 
