@@ -27,7 +27,7 @@ Eine gute Zusammenfassung gab es bereits [von Stefan Krempl bei Heise](https://w
 
 ### Man kann sich auf private Mobilitätsanbieter nicht verlassen
 
-* https://www.swp.de/suedwesten/staedte/ulm/car2go-macht-in-ulm-dicht-pilotstadt-war-zu-klein-und-zu-teuer-21629207.html (car2go verlässt ulm, 2014)
+* https://www.swp.de/suedwesten/staedte/ulm/car2go-macht-in-ulm-dicht-pilotstadt-war-zu-klein-und-zu-teuer-21629207.html (car2go verlässt Ulm, 2014)
 * https://www.share-now.com/ca/en/important-update/ (car2go macht in ganz Nordamerika dicht, 2019)
 
 Wir nennen das entstandene Prinzip gern den *Google Reader-Effekt* - da Leute in Ulm auch 5 Jahre später immer noch car2go hinterhertrauern und es wirklich eine Lücke hinterlassen hat, die niemand bislang richtig sinnvoll gefüllt hat, ähnlich wie bei Feedreadern.
@@ -36,7 +36,7 @@ Wir nennen das entstandene Prinzip gern den *Google Reader-Effekt* - da Leute in
 
 Auf der [GPN](https://entropia.de/GPN19) konnten wir die Schlösser der neuen Fahrrad-Generation von Nextbike öffnen. Sie benutzen das [selbe Schloss, das wir hier schonmal zerlegt haben](../schloss-von-innen-j/). Das Schloss ist eigentlich eine [Smartwatch](../schloss-am-handgelenk/). Wichtigste Message: **Ändert die voreingestellten Keys** und schaltet die Bluetooth-Schnittstelle ab, wenn ihr sie nicht nutzt (besonders dann, wenn man vorhat 6000 Räder damit auf die Straße zu bringen).
 
-Der Talk ["Taking Bluetooth lockpicking to the next level ...or the 37th floor of a Hotel"](https://media.ccc.de/v/Camp2019-10241-taking_bluetooth_lockpicking_to_the_next_level) von mh und ray auf dem cccamp19 zeigt, dass diese Schlossfirmware ist noch in anderer Hardware ausser Fahrradschlössern verbaut ist.
+Der Talk ["Taking Bluetooth lockpicking to the next level ...or the 37th floor of a Hotel"](https://media.ccc.de/v/Camp2019-10241-taking_bluetooth_lockpicking_to_the_next_level) von mh und ray auf dem cccamp19 zeigt, dass diese Schlossfirmware noch in anderer Hardware ausser Fahrradschlössern verbaut ist.
 
 
 ### Wo sind Verkehrsmittel?
@@ -82,7 +82,7 @@ Für eine genauere Übersicht, welche Städte Scooteranbieter jetzt wie regulier
 * [Mitfahrdezentrale](http://www.mitfahrdezentrale.de) mit [mitfahren-bw](http://mitfahren-bw.de), um Mitfahrangebote wie einen Fahrplan zu behanden und so in Routingsysteme einfließen lassen zu können.
 * [Alexeys Fehlende Busse](https://twitter.com/orless/status/1204108182806843394), um aufzuzeigen, welche Orte mit einer Buslinie besser an den Schienennahverkehr angebunden werden könnten.
 * [RetteDeinenNahverkehr.de](https://rettedeinennahverkehr.de) um bislang fehlende offene Daten zu Fahrplänen etc. einfach anzufragen.
-* [OpenData der Bahn](https://data.deutschebahn.com) - Leider ohne Fahrplandatensatz (nur als [API](https://data.deutschebahn.com/dataset/api-fahrplan), sodass Leute [das bei jedem Fahrplan abgrasen müssen](https://github.com/fredlockheed/db-fv-gtfs)). [Schreibt](https://betatestplattform.noncd.db.de/feedback) gern dem Open Data Team, dass ihr das gern hättet.
+* [OpenData der Bahn](https://data.deutschebahn.com) - Leider ohne Fahrplandatensatz (nur als [API](https://data.deutschebahn.com/dataset/api-fahrplan), sodass Leute [das bei jedem Fahrplanwechsel abgrasen müssen](https://github.com/fredlockheed/db-fv-gtfs)). [Schreibt](https://betatestplattform.noncd.db.de/feedback) gern dem Open Data Team, dass ihr das gern hättet.
 
 ### Open Data muss offen sein, Mobilitätsdaten auch
 
@@ -117,7 +117,7 @@ Dafür eignen sich z.B. die [selbstbaubaren Nächster-Bus-in-Panels](https://git
 
 Ein ganz ganz fettes Shoutout geht an die [British Library](https://www.flickr.com/search/?user_id=britishlibrary) für die [Public Domain Scans von Strichzeichnungen aus sehr alten Büchern](https://www.flickr.com/search/?user_id=britishlibrary) und [rixx](https://rixx.de), der mit [diesem Blogpost](https://rixx.de/blog/advice-for-a-bad-speaker/) zum Stil inspiriert hat.
 
-Ein bisschen geholfen, unsere Gedanken zur recht vielfältigen Mobilitätsbubble zu sortieren, hat erstmal alles auf Zettel aufzuschreiben:
+Unsere Gedanken zur recht vielfältigen Mobilitätsbubble zu sortieren wurde besser, indem wir erstmal alles auf Zettel aufschrieben:
 
 {{< tweet 1207731181996924929 >}}
 
