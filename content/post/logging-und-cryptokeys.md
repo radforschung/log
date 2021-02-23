@@ -3,7 +3,8 @@ title: Logging und Cryptokeys
 date: 2018-04-09 00:00:00 +0000
 
 ---
-{{< tweet 983360948932153344 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">*wrrrwrrrwrr-KLACK* und soeben hat sich das zweite Schloss zum ersten mal per BLE öffnen lassen. Der Hersteller hatte einen anderen Key als bislang kommuniziert hinterlegt</p>&mdash; radforschung (@radforschung) <a href="https://twitter.com/radforschung/status/983360948932153344?ref_src=twsrc%5Etfw">April 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Nach dem *Chinese New Year*-Urlaub des Herstellers J haben sie uns glücklicherweise mitgeteilt, dass wir doch das blaue Drähtchen am USB-Seriell-Adapter mit Masse verbinden müssen, damit das Schloss auch auf serielle Befehle reagiert.
 

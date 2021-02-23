@@ -17,7 +17,7 @@ Eine gute Zusammenfassung gab es bereits [von Stefan Krempl bei Heise](https://w
 ### Silicon Valley erfindet den Bus
 <small>(dreist [geklaut bei stk](https://stefan.bloggt.es/2019/05/wie-staedte-die-mobilitaet-der-zukunft-gestalten/), danke)</small>
 
-{{< tweet 876821438312873986 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Stop everything! Silicon Valley just invented... the bus. <a href="https://t.co/86STlcI3GC">https://t.co/86STlcI3GC</a> <a href="https://t.co/1eFoXhZ7hn">pic.twitter.com/1eFoXhZ7hn</a></p>&mdash; Lincoln Michel (@TheLincoln) <a href="https://twitter.com/TheLincoln/status/876821438312873986?ref_src=twsrc%5Etfw">June 19, 2017</a></blockquote>
 
 * https://lifehacker.com/lyft-s-new-shuttle-service-is-more-convenient-than-lyft-1796167137
 * https://www.pcmag.com/commentary/359462/silicon-valley-reinvents-the-bus
@@ -119,7 +119,7 @@ Ein ganz ganz fettes Shoutout geht an die [British Library](https://www.flickr.c
 
 Unsere Gedanken zur recht vielfältigen Mobilitätsbubble zu sortieren wurde besser, indem wir erstmal alles auf Zettel aufschrieben:
 
-{{< tweet 1207731181996924929 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">»Unser Talk wird ein vierdimensionales Puzzle« 😱 <a href="https://t.co/wwDuODLPOS">pic.twitter.com/wwDuODLPOS</a></p>&mdash; robbi5 (@robbi5) <a href="https://twitter.com/robbi5/status/1207731181996924929?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote>
 
 Danke an 
 
@@ -127,7 +127,7 @@ Danke an
 * [Juka](https://twitter.com/gruenzeug), [Simon](https://twitter.com/semapher) und [stk](https://twitter.com/_stk), die sich in der Konzeptionsphase viel Zeit für Feedback, Support und Verbesserungen genommen haben (und auch erfolgreich aus einer fuck-this-shit-talk-einfach-sein-lassen-Panik rausgeholt haben)
 * Unser Testpublikum, das sich extra spät in der Nacht an Tag 2 und Tag 3 bei der WikiPaka-WG-Bühne die Zeit genommen habt, sich unsere Entwurfsfassungen anzuhören und wirklich gutes Feedback zu geben.
 
-{{< tweet 1211448536719642630 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Habe heute so viel über Mobilität gelernt und Spaß mit dem Thema gehabt. Schaut euch unbedingt den <a href="https://twitter.com/hashtag/36C3?src=hash&amp;ref_src=twsrc%5Etfw">#36C3</a> Talk von <a href="https://twitter.com/ubahnverleih?ref_src=twsrc%5Etfw">@ubahnverleih</a> und <a href="https://twitter.com/robbi5?ref_src=twsrc%5Etfw">@robbi5</a> an Tag 4, 13:50 Uhr in Saal Borg an! Die machen richtig coole Sachen! <br><br>(Gibt auch Aufzeichnung und Übersetzung)</p>&mdash; Matthias Matousek (@m_matou) <a href="https://twitter.com/m_matou/status/1211448536719642630?ref_src=twsrc%5Etfw">December 30, 2019</a></blockquote>
 
 * Die ErsteReiheOpenDataPöbelGang, die neben wunderbarem Support auch durch strategisches Mitsingen den Prinzen-Gag (*Alles nur gekauft, eh jo*, ab Minute 12:55) nicht zu einer komplett awkwarden Situation abdriften haben lassen 🙃
 * und Sorry und Danke an all die Menschen die wir in der Auflistung vergessen haben.
@@ -145,4 +145,4 @@ Hier noch ein paar Dinge, die es as Zeitgründen nicht mehr in den Talk geschaff
 
 Wir freuen uns weiterhin über Feedback, Ideen und Anregungen zum Talk. Gerne einfach per [Twitter oder Mail](../about/).
 
-
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

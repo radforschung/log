@@ -42,7 +42,7 @@ Auch interessierte Verschwörhausmitbewohner\*innen und -besuchende sehen durcha
 
 Wir sind mit dieser Idee (und der Schlosshardware) zum [*Digital Mobility Hack*](https://vm.baden-wuerttemberg.de/de/verkehrspolitik/zukunftskonzepte/digitale-mobilitaet/digital-mobility-hack-bw/) des Verkehrsministeriums Baden-Württemberg gefahren. An einem Wochenende haben wir die Öffnung per Bluetooth in eine Android-App verpflanzt, einen groben Prototypen zur Fahrrad- und Schlossverwaltung in django begonnen und versucht einen ESP32 mit LoRaWAN mit dem Schloss zu verbinden.
 
-{{< tweet 989149856685068292 >}}
+<blockquote class="twitter-tweet"><p lang="sv" dir="ltr">*klack* <a href="https://t.co/XwJfpYreD2">pic.twitter.com/XwJfpYreD2</a></p>&mdash; radforschung (@radforschung) <a href="https://twitter.com/radforschung/status/989149856685068292?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
 Unsere Abschlusspräsentation dazu, die hoffentlich das Thema kurz vermittelt, sah dann so aus:
 
@@ -50,4 +50,6 @@ Unsere Abschlusspräsentation dazu, die hoffentlich das Thema kurz vermittelt, s
 
 Glücklicherweise hat das Konzept die dort anwesende Jury überzeugt - und wir erhalten das [*Mobilitätsstipendium BW*](https://vm.baden-wuerttemberg.de/de/verkehrspolitik/zukunftskonzepte/digitale-mobilitaet/mobilitaetsstipendium-bw/), was uns ermöglicht, noch tiefer in die *radforschung* einzusteigen.
 
-{{< tweet 987787804561346560 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Ich durfte dieses Wochenende <a href="https://twitter.com/robbi5?ref_src=twsrc%5Etfw">@robbi5</a> und <a href="https://twitter.com/ubahnverleih?ref_src=twsrc%5Etfw">@ubahnverleih</a> dabei unterstützen, <a href="https://twitter.com/radforschung?ref_src=twsrc%5Etfw">@radforschung</a> weiterzubringen – und ich glaub, wir sind da an was dran ;) <a href="https://t.co/9G7tl81Ywz">pic.twitter.com/9G7tl81Ywz</a></p>&mdash; stefan (@_stk) <a href="https://twitter.com/_stk/status/987787804561346560?ref_src=twsrc%5Etfw">April 21, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

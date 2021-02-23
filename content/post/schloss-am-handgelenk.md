@@ -30,12 +30,13 @@ Durch die Verbreitung in Smartwatches hat sich glücklicherweise bereits eine Co
 
 Dazu wird das Mediatek FlashTool in einer passenden Version, ein Scatterfile (das beschreibt, wie der verbaute Flash aufgeteilt ist) und USB/Seriell-Zugang zum UART des Chips benötigt. Da das benötigte Scatterfile normalerweise mit der Firmware der Smartwatch zum Download angeboten wird, waren wir erstmal auf der Suche nach einem passenden Scatterfile. Glücklicherweise lässt sich das `scatter_for_backup&format_created_by_dfgigger.cfg` aus einem russischem Forenthread über Smartwatch-Modifikationen bei fast allen Chipsätzen verwenden.
 
-{{< tweet 975495046953951234 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Oh. Der verbaute SoC wird normalerweise in billigen Smartwatches eingesetzt. Dementsprechend gibt es da schon Tooling - und nun haben wir einen Firmwaredump \o/ <a href="https://t.co/pbmJOML4C1">pic.twitter.com/pbmJOML4C1</a></p>&mdash; radforschung (@radforschung) <a href="https://twitter.com/radforschung/status/975495046953951234?ref_src=twsrc%5Etfw">March 18, 2018</a></blockquote>
 
 Nach einem Neustart des Schlosses durch Abziehen des Akku-Steckers und dem *Read Back* mit dem FlashTool liegt dann eine `ROM_0`-Datei herum. Diese lässt sich mit dem *ReadBack Extractor* aus oben verlinktem xda-developers-Thread in einzelne Dateien aufsplitten, die auch wieder auf das Schloss geflasht werden könnten.
 
 Durch das *Maui META*-Tool, das normalerweise wohl im Werk für die Kalibration von GSM, GPS und co verwendet wird, lässt sich auch auf den FAT-Speicher des Chips zugreifen.
 
-{{< tweet 980904898631032832 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Heute gelernt: Eines der Schlösser bietet über ein interessantes Tool auch Zugriff auf den internen FAT-Speicher an. Dort zu finden: Config, Logs und Zertifikate <a href="https://t.co/6lf0tXlZjR">pic.twitter.com/6lf0tXlZjR</a></p>&mdash; radforschung (@radforschung) <a href="https://twitter.com/radforschung/status/980904898631032832?ref_src=twsrc%5Etfw">April 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Dort legt die Firmware, die auf einer Mediatek IoT-Plattform basieren zu scheint, Konfiguration, aber vorallem Logs vom GPS ab.

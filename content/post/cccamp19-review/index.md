@@ -33,7 +33,7 @@ Und das funktionierte sogar besser als erwartet :D
 
 [robbi5](https://twitter.com/robbi5) tat derweil, was er am besten kann: Domains shoppen (die Ratio: Eine kurze Domain ist gut, damits Leute einfach auf ihrem Smartphone-Browser eintippen können), Deployments vorbereiten und durchführen, Schilder laminieren, Kisten packen und die ganze Nacht lang Bugs fixen.
 
-{{< tweet 1162839090783563779 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">was im übermüdeten zustand geht:<br>✅ domain shoppen <br>❌ laminiergerät bedienen <a href="https://t.co/YOV6sNAONc">pic.twitter.com/YOV6sNAONc</a></p>&mdash; robbi5 (@robbi5) <a href="https://twitter.com/robbi5/status/1162839090783563779?ref_src=twsrc%5Etfw">August 17, 2019</a></blockquote>
 
 Eine Idee war zunächst, über QR-Codes gleich die Bike-ID einzubetten, das haben wir dann aber doch nicht gemacht, sondern einfach auf die Domain verwiesen. Ein nicht erwarteter Seiteneffekt: So eine hippe Domain wie [dev.bike](https://dev.bike) wurde von gar nicht mal so wenigen Leuten gar nicht als Domain interpretiert, sondern als Markenname oder sowas in der Art. Das bedurfte dann noch weiterer Erklärung.
 
@@ -41,7 +41,7 @@ Eine Idee war zunächst, über QR-Codes gleich die Bike-ID einzubetten, das habe
 
 Am Dienstag (20.8., Tag 0 vor dem offiziellen Campbeginn) machten wir den ersten Test mit dem Ausleihsystem: Einloggen, Rad-ID eingeben, Ausleihe beginnen. Nach und nach trudelten Fahrräder (und ein Rollstuhl!) bei uns ein, die viele liebe Menschen uns als Testobjekte mitgebracht hatten. Zeitgleich sorgte [vidister](https://twitter.com/vidister) dafür, dass unser mitgebrachtes [TTN](https://www.thethingsnetwork.org/)-Gateway auf den großen Kamin im Ziegeleipark gebaut und mit Netz versorgt wurde. Und so konnten wir testen. Bis irgendwann in der ersten Nacht die Akkus der Tracker leer liefen, weil wir die Batteriespannung anfangs nicht vernünftig übertragen haben.
 
-{{< tweet 1164172372028645376 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">&quot;Na, ist euer Bikesharing schon aktiv?&quot; - &quot;Ja,.. Aber wir haben das gleiche Problem wie alle Bikesharinganbieter: Wir wissen nicht, wo sie sind.&quot; - &quot;Ah, dann seid ihr ja hochgradig professionalisiert!&quot;</p>&mdash; vidister (@vidister) <a href="https://twitter.com/vidister/status/1164172372028645376?ref_src=twsrc%5Etfw">August 21, 2019</a></blockquote>
 
 Das Batteriemonitoring und die Anzeige der letzten Funkmeldung der Tracker im Backend waren nur zwei von vielen Verbesserungen, die quasi kontinuierlich durch „oh shit!“-Momente und das Feedback der vielen TestnutzerInnen ins System einflossen. An der Stelle möchten wir uns auch ganz ganz herzlich bei den vielen vielen Menschen bedanken, die Tipps und Verbesserungsvorschläge zurückgemeldet haben; und darüber hinaus noch viel mehr bei allen, die aktiv auch Verbesserungen und Erweiterungen der Codebasis eingereicht haben. Dazu später noch mehr.
 
@@ -49,13 +49,13 @@ Für alle zeitkritischen Warnungen (z.B. „Fahrrad hat sich länger als eine St
 
 Weitere nach und nach integrierte Verbesserungen umfassten auch die Möglichkeit, sich über weitere Identitätsprovider am System anmelden zu können. Wir hatten bewusst darauf verzichtet, ein eigenes Benutzermanagement mit dev.bike-spezifischen Accounts zu verwenden, sondern setzten auf eine Anmeldung über [OAuth2](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0). Anfänglich waren hier StackOverflow und Github als Identitätsprovider möglich; über die Zeit kamen [FragDenStaat](https://fragdenstaat.de/), EventPhone und zum Schluss Twitter als Loginmöglichkeiten dazu. [Mastodon](https://de.wikipedia.org/wiki/Mastodon) hätten wir gerne ebenfalls integriert, dort wird durch die Dezentralität der Login aber noch einmal eine Ecke komplizierter – auf _jeder_ Instanz müsste die OAuth2-App erst registriert werden. Das Mastodon-Projekt [hat das Problem bereits erkannt und vorgesorgt](https://docs.joinmastodon.org/api/authentication/); es gab aber zum Zeitpunkt der Camps noch [kein fertiges Django-Allauth-Plugin dafür,](https://twitter.com/radforschung/status/1164601303919714307) so dass wir diese Loginmöglichkeit erst einmal links liegen lassen haben.
 
-{{< tweet 1164488082168655872 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Live in-Field debugging of cobbled together bikesharing tools :D <a href="https://twitter.com/radforschung?ref_src=twsrc%5Etfw">@radforschung</a> <a href="https://twitter.com/hashtag/CCCamp19?src=hash&amp;ref_src=twsrc%5Etfw">#CCCamp19</a> <a href="https://t.co/JrrQcVvmn7">pic.twitter.com/JrrQcVvmn7</a></p>&mdash; stefan (@_stk) <a href="https://twitter.com/_stk/status/1164488082168655872?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote>
 
 Witziger war die Eventphone-DECT-Login-Möglichkeit. Wer wollte, konnte die eigene DECT-Nummer eingeben und bekam dann eine Verifizierungs-Rufnummer und einen Zahlencode vorgelegt. Wer die Nummer anrief und die Nummer vorlas, wurde dann freigeschaltet – händisch, von wer auch immer in der Callgroup an die Nummer ging. Das gab natürlich Abzüge in der B-Note ;D 
 
 Das konnte aber natürlich nicht so bleiben, deswegen bauten [Stefan Wehrmeyer](https://stefanwehrmeyer.com/) einen [automatisierten Auth-Workflow](https://github.com/stefanw/eventphoauth) und [Teal Starsong](https://twitter.com/moeffju) das [komplette Aussenrum](https://github.com/moeffju/devbike-eventphone-auth/) auf deutsch, englisch, spanisch, finnisch, japanisch und niederländisch. Wer also zukünftig auf einem Congress irgendwas mit Eventphone-DECT-Login haben will, dürfte nun eine passende Grundlage haben ;)
 
-{{< tweet 1164519147927220224 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just added my cargo bike to the <a href="https://twitter.com/radforschung?ref_src=twsrc%5Etfw">@radforschung</a> network at <a href="https://twitter.com/hashtag/cccamp19?src=hash&amp;ref_src=twsrc%5Etfw">#cccamp19</a> - try it out: <a href="https://t.co/LYxUJEAgwI">https://t.co/LYxUJEAgwI</a> - it is bike 14 <a href="https://t.co/FlrtMHPr4c">pic.twitter.com/FlrtMHPr4c</a></p>&mdash; ligi 🖖☮️🌍🚲🌳🍵🎶🌶🔥 (@mr_ligi) <a href="https://twitter.com/mr_ligi/status/1164519147927220224?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote>
 
 Auf der Fahrradseite kamen nach und nach mehr Fahrzeuge dazu. Der uns vorbeigebrachte Rollstuhl wurde relativ schnell für jemand mit lädierten Knöchel dauer-verliehen, um das Camp halbwegs zugänglich zu machen. Dafür kam ein Lastenrad dazu, das rege genutzt wurde, und spontan wurde auch [ein recht hochwertiges Rad in den Pool aufgenommen](https://twitter.com/LucasWerkmeistr/status/1164497617671376899). Dort zeigte sich dann auch gleich ein Problem: Wir kamen nicht schnell genug dazu, einen Tracker an dieses Rad zu bauen – schwupps war es bereits ausgeliehen, was dann [zu einer Suchaktion](https://twitter.com/radforschung/status/1164635007882878989) führte, bis dieses Rad (wie alle anderen zeitweise verlorenen) [durch Hinweise](https://twitter.com/SvenLakemeier/status/1164862239310065665) wieder gefunden wurde.
 
@@ -98,3 +98,5 @@ Nicht zuletzt möchten wir auch noch mehr Austausch mit euch allen da draußen, 
 Und ganz zum Schluss: Ein riesiges Dankeschön an alle, die egal auf welche Weise mitgemacht haben, und großes Sorry an alle, die wir in diesem Artikel namentlich zu erwähnen vergessen haben. Ihr seid awesome :)
 
 _Offenlegung: Die Entwicklung des Freien/Open-Source-Software-Bikesharing-Systems OpenBike wird derzeit vom Verkehrsministerium Baden-Württemberg gefördert; robbi5 und Consti entwickeln das System in diesem Rahmen seit 1.9. als Fellows der Stadt Ulm weiter._
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

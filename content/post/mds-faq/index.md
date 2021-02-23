@@ -56,7 +56,7 @@ Die Übermittlung der Service Areas in einem maschinenlesbaren Format sorgt daf�
 
 Unserer Kenntnis nach bieten viele Anbieter derzeit an, auch beliebige andere Kartendarstellungen in ihr Hintergrundsystem zu übernehmen – von einer mündlichen Beschreibung bis zu einer ausgedruckten und von Hand schraffierten Karte.
 
-{{< tweet 1143084944387956736 >}}
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Wichtiges <a href="https://twitter.com/hashtag/eScooter?src=hash&amp;ref_src=twsrc%5Etfw">#eScooter</a> Geofencing von <a href="https://twitter.com/limebike?ref_src=twsrc%5Etfw">@limebike</a>, <a href="https://twitter.com/CircMobility?ref_src=twsrc%5Etfw">@CircMobility</a> und <a href="https://twitter.com/TierScooter?ref_src=twsrc%5Etfw">@TierScooter</a> in <a href="https://twitter.com/Koeln?ref_src=twsrc%5Etfw">@Koeln</a>. Unterschiede sind erkennbar... <a href="https://t.co/7IPASw3UIj">pic.twitter.com/7IPASw3UIj</a></p>&mdash; Jan Strehmann (@jstrehmann) <a href="https://twitter.com/jstrehmann/status/1143084944387956736?ref_src=twsrc%5Etfw">June 24, 2019</a></blockquote>
 
 Solche Formate erlauben auf Seiten der Anbieter Spielraum für Interpretation – und am Ende sind die Nutzerïnnen mit einer Vielfalt von je Anbieter unterschiedlichen Ausschlusszonen konfrontiert.
 
@@ -183,3 +183,5 @@ Wenn die Antwort auf die Frage nach der flexiblen IT-Abteilung oben „nein“ w
 Ganz, ganz dringend.
 
 [^changelog]: Changelog: https://github.com/radforschung/log/commits/master/content/post/mds-faq/index.md
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
