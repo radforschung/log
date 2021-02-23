@@ -11,3 +11,19 @@ Kontaktieren kann man uns am besten über Twitter - dort findet man das Projekt 
 Produzierter Code findet sich auf GitHub unter [github.com/radforschung](https://github.com/radforschung).
 
 Physikalisch anzutreffen sind wir meist im [Verschwörhaus](https://verschwoerhaus.de) in Ulm.
+
+## Impressum
+### Angaben gemäß § 5 TMG
+radforschung GbR  
+Olgastraße 94  
+89073 Ulm  
+
+### Vertreten durch:
+
+Maximilian Richt  
+Constantin Müller
+
+### Kontakt
+Twitter: [@radforschung](https://twitter.com/radforschung)  
+Telefon: +4973114114357 (wir bevorzugen wirklich, wirklich, wirklich E-Mail)  
+E-Mail: <a href="mailto:hallo@radforschung.org">hallo<!--.nospam-->@radforschung<!-- .example -->.org</a>
