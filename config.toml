@@ -5,21 +5,31 @@ pygmentsStyle = "native"
 theme = "natrium"
 title = "radforschung.log"
 paginate = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menu.main]]
 name = "@radforschung"
 pre = "<i class='fa fa-twitter' title='twitter'></i>"
 url = "https://twitter.com/radforschung"
+
 [params]
 description = ""
+
 [params.logo]
 alt = "radforschung"
 height = "50"
 title = "radforschung"
 url = "logo.svg"
 width = "50"
+
 [permalinks]
 page = "/:slug/"
-post = "/:slug/"
+post = "/post/:slug/"
+
 [taxonomies]
 category = "categories"
 tag = "tags"
