@@ -1,0 +1,31 @@
+name: deploy log
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.80.0'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify
+      
+      - name: ssh deploy
+        uses: easingthemes/ssh-deploy@v2.1.5
+        env:
+          SOURCE: public/
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_SSH_KEY }}
+          ARGS: "-rltgoDzvO --exclude='.*'"
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
