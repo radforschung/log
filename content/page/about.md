@@ -10,7 +10,7 @@ Kontaktieren kann man uns am besten über Twitter - dort findet man das Projekt 
 
 Produzierter Code findet sich auf GitHub unter [github.com/radforschung](https://github.com/radforschung).
 
-Physikalisch anzutreffen sind wir meist im [Verschwörhaus](https://verschwoerhaus.de) in Ulm.
+Physikalisch anzutreffen sind wir öfter im [temporärhaus](https://temporaerhaus.de) in Neu-Ulm.
 
 ## Impressum
 ### Angaben gemäß § 5 TMG
